@@ -1,4 +1,4 @@
-## Controle de Pedidos de Clientes
+## Controle de Pedidos de Clientes :person_with_blond_hair:
 
 - #### Classes
 
